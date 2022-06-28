@@ -1,10 +1,10 @@
 {
   "students": [],
-  "teachers": [],
+  "doctor": [],
+  "subjects": [],
   "login": [
     {
       "id": 1
     }
-  ],
-  "subjects": []
+  ]
 }
